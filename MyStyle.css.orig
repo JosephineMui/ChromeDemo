@@ -1,0 +1,16 @@
+﻿body
+{
+   text-align: center; 
+}
+
+h2 {
+    font-style: italic;
+}
+
+<<<<<<< HEAD
+Today is Sunday
+A productive and beautiful day
+I am modified
+=======
+Today is Sunday - ha
+>>>>>>> ec15ae792f9ec8dc38469de5b38a7497fc3ea494
