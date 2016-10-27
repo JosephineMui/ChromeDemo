@@ -1,5 +1,5 @@
 var stepNumber = 1;
-var thing = "ants";
+var thing = "pigs";
 
 function DoStuff() {
 
