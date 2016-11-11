@@ -23,13 +23,6 @@ function DoStuff() {
    
 }
 
-function FirstStep() {
-    console.group("Step %i", stepNumber)
-    console.log("Finding %s", thing);
-    console.log("Building %s farms", thing);
-    console.log("Feeding %s", thing);
-    console.groupEnd();
-}
 
 function SecondStep() {
     debugger;
