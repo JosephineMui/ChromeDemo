@@ -14,15 +14,7 @@ function DoStuff() {
     console.warn("warning");
     console.assert(10 == 5 * 3);
 
-    console.time("Steps time");
-    console.group("Steps")
-    FirstStep();
-    stepNumber++;
-    SecondStep();
-    stepNumber++;
-    ThirdStep();
-    console.groupEnd();
-    console.timeEnd("Steps time");
+  
 
     console.group("%cFinishing part", "font-size: x-large")
     LoadBanners();
