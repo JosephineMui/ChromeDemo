@@ -24,14 +24,7 @@ function DoStuff() {
 }
 
 
-function SecondStep() {
-    debugger;
-    console.log("Step %i", stepNumber);
-}
 
-function ThirdStep() {
-    console.log("Step %i", stepNumber);
-}
 
 function LoadBanners() {
     console.log("Loading banners");
