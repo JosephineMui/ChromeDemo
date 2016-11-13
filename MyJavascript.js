@@ -2,7 +2,7 @@ var stepNumber = 1;
 var thing = "pigs";
 
 
-aslslslskjsljlk
+
 Fixed issues
 
 function DoStuff() {
