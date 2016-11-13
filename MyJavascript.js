@@ -3,12 +3,7 @@ var thing = "pigs";
 
 function DoStuff() {
 
-    console.log("hi");
-    console.error("it broke");
-    console.debug("debuggin");
-    console.info("information");
-    console.warn("warning");
-    console.assert(10 == 5 * 3);
+  
 
     console.time("Steps time");
     console.group("Steps")
